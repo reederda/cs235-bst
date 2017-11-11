@@ -12,7 +12,7 @@ public:
 	BST() {
 		root = NULL;
 	}
-	~BST() {}
+	~BST() {clear();}
 
 
 	//Please note that the class that implements this interface must be made

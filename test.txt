@@ -1,0 +1,2475 @@
+Reading file1.txt...
+Beginning out_file1.txt write
+Starting Add
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+File write complete
+
+Reading file2.txt...
+Beginning out_file2.txt write
+Starting Add
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting remove
+Starting remove_function
+n = 1
+n left0
+n right0x1c963e0
+n->data < value
+Starting remove_function
+n = 2
+n left0
+n right0x1c94e70
+n->data < value
+Starting remove_function
+n = 3
+n left0
+n right0x1c94ef0
+n->data < value
+Starting remove_function
+n = 4
+n left0
+n right0x1c94f60
+n->data < value
+Starting remove_function
+n = 5
+n left0
+n right0x1c94f90
+n->data < value
+Starting remove_function
+n = 6
+n left0
+n right0x1c94fc0
+n->data < value
+Starting remove_function
+n = 10
+n left0x1c94ff0
+n right0
+n->data < value
+Starting remove_function
+N is NULL
+Starting remove
+Starting remove_function
+n = 1
+n left0
+n right0x1c963e0
+n->data < value
+Starting remove_function
+n = 2
+n left0
+n right0x1c94e70
+n->data < value
+Starting remove_function
+n = 3
+n left0
+n right0x1c94ef0
+n->data < value
+Starting remove_function
+n = 4
+n left0
+n right0x1c94f60
+n->data < value
+Starting remove_function
+n = 5
+n left0
+n right0x1c94f90
+n->data < value
+Starting remove_function
+n = 6
+n left0
+n right0x1c94fc0
+n->data < value
+Starting remove_function
+n = 10
+n left0x1c94ff0
+n right0
+one child
+Starting remove
+Starting remove_function
+n = 1
+n left0
+n right0x1c963e0
+n->data < value
+Starting remove_function
+n = 2
+n left0
+n right0x1c94e70
+n->data < value
+Starting remove_function
+n = 3
+n left0
+n right0x1c94ef0
+n->data < value
+Starting remove_function
+n = 4
+n left0
+n right0x1c94f60
+n->data < value
+Starting remove_function
+n = 5
+n left0
+n right0x1c94f90
+n->data < value
+Starting remove_function
+n = 6
+n left0
+n right0x1c94ff0
+n->data < value
+Starting remove_function
+n = 8
+n left0x1c95020
+n right0x1c95050
+n->data < value
+Starting remove_function
+n = 9
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 1
+n left0
+n right0x1c963e0
+n->data < value
+Starting remove_function
+n = 2
+n left0
+n right0x1c94e70
+n->data < value
+Starting remove_function
+n = 3
+n left0
+n right0x1c94ef0
+n->data < value
+Starting remove_function
+n = 4
+n left0
+n right0x1c94f60
+n->data < value
+Starting remove_function
+n = 5
+n left0
+n right0x1c94f90
+n->data < value
+Starting remove_function
+n = 6
+n left0
+n right0x1c94ff0
+one child
+Starting remove
+Starting remove_function
+n = 1
+n left0
+n right0x1c963e0
+n->data < value
+Starting remove_function
+n = 2
+n left0
+n right0x1c94e70
+n->data < value
+Starting remove_function
+n = 3
+n left0
+n right0x1c94ef0
+n->data < value
+Starting remove_function
+n = 4
+n left0
+n right0x1c94f60
+n->data < value
+Starting remove_function
+n = 5
+n left0
+n right0x1c94ff0
+n->data < value
+Starting remove_function
+n = 8
+n left0x1c95020
+n right0
+one child
+Starting remove
+Starting remove_function
+n = 1
+n left0
+n right0x1c963e0
+n->data < value
+Starting remove_function
+n = 2
+n left0
+n right0x1c94e70
+n->data < value
+Starting remove_function
+n = 3
+n left0
+n right0x1c94ef0
+n->data < value
+Starting remove_function
+n = 4
+n left0
+n right0x1c94f60
+n->data < value
+Starting remove_function
+n = 5
+n left0
+n right0x1c95020
+n->data < value
+Starting remove_function
+n = 7
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 1
+n left0
+n right0x1c963e0
+n->data < value
+Starting remove_function
+n = 2
+n left0
+n right0x1c94e70
+n->data < value
+Starting remove_function
+n = 3
+n left0
+n right0x1c94ef0
+n->data < value
+Starting remove_function
+n = 4
+n left0
+n right0x1c94f60
+n->data < value
+Starting remove_function
+n = 5
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 1
+n left0
+n right0x1c963e0
+n->data < value
+Starting remove_function
+n = 2
+n left0
+n right0x1c94e70
+n->data < value
+Starting remove_function
+n = 3
+n left0
+n right0x1c94ef0
+n->data < value
+Starting remove_function
+n = 4
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 1
+n left0
+n right0x1c963e0
+n->data < value
+Starting remove_function
+n = 2
+n left0
+n right0x1c94e70
+n->data < value
+Starting remove_function
+n = 3
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 1
+n left0
+n right0x1c963e0
+n->data < value
+Starting remove_function
+n = 2
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 1
+n left0
+n right0
+No next of kin
+Starting clear
+Starting clear_function
+File write complete
+
+Reading file3.txt...
+Beginning out_file3.txt write
+Starting clear
+Starting clear_function
+Starting Add
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ea0
+n->data < value
+Starting remove_function
+n = 99
+n left0x1c95050
+n right0x1c94ed0
+n->data > value
+Starting remove_function
+n = 88
+n left0x1c966d0
+n right0
+n->data > value
+Starting remove_function
+n = 77
+n left0x1c96820
+n right0
+n->data > value
+Starting remove_function
+n = 66
+n left0x1c96940
+n right0
+n->data > value
+Starting remove_function
+n = 55
+n left0x1c96a30
+n right0
+n->data > value
+Starting remove_function
+n = 44
+n left0x1c96af0
+n right0
+n->data > value
+Starting remove_function
+n = 33
+n left0x1c96b80
+n right0
+n->data > value
+Starting remove_function
+n = 22
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ea0
+n->data < value
+Starting remove_function
+n = 99
+n left0x1c95050
+n right0x1c94ed0
+n->data > value
+Starting remove_function
+n = 88
+n left0x1c966d0
+n right0
+n->data > value
+Starting remove_function
+n = 77
+n left0x1c96820
+n right0
+n->data > value
+Starting remove_function
+n = 66
+n left0x1c96940
+n right0
+n->data > value
+Starting remove_function
+n = 55
+n left0x1c96a30
+n right0
+n->data > value
+Starting remove_function
+n = 44
+n left0x1c96af0
+n right0
+n->data > value
+Starting remove_function
+n = 33
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ea0
+n->data < value
+Starting remove_function
+n = 99
+n left0x1c95050
+n right0x1c94ed0
+n->data > value
+Starting remove_function
+n = 88
+n left0x1c966d0
+n right0
+n->data > value
+Starting remove_function
+n = 77
+n left0x1c96820
+n right0
+n->data > value
+Starting remove_function
+n = 66
+n left0x1c96940
+n right0
+n->data > value
+Starting remove_function
+n = 55
+n left0x1c96a30
+n right0
+n->data > value
+Starting remove_function
+n = 44
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ea0
+n->data < value
+Starting remove_function
+n = 99
+n left0x1c95050
+n right0x1c94ed0
+n->data > value
+Starting remove_function
+n = 88
+n left0x1c966d0
+n right0
+n->data > value
+Starting remove_function
+n = 77
+n left0x1c96820
+n right0
+n->data > value
+Starting remove_function
+n = 66
+n left0x1c96940
+n right0
+n->data > value
+Starting remove_function
+n = 55
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ea0
+n->data < value
+Starting remove_function
+n = 99
+n left0x1c95050
+n right0x1c94ed0
+n->data > value
+Starting remove_function
+n = 88
+n left0x1c966d0
+n right0
+n->data > value
+Starting remove_function
+n = 77
+n left0x1c96820
+n right0
+n->data > value
+Starting remove_function
+n = 66
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ea0
+n->data < value
+Starting remove_function
+n = 99
+n left0x1c95050
+n right0x1c94ed0
+n->data > value
+Starting remove_function
+n = 88
+n left0x1c966d0
+n right0
+n->data > value
+Starting remove_function
+n = 77
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ea0
+n->data < value
+Starting remove_function
+n = 99
+n left0x1c95050
+n right0x1c94ed0
+n->data > value
+Starting remove_function
+n = 88
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ea0
+n->data < value
+Starting remove_function
+n = 99
+n left0
+n right0x1c94ed0
+one child
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ed0
+n->data < value
+Starting remove_function
+n = 999
+n left0x1c95080
+n right0x1c94f00
+n->data < value
+Starting remove_function
+n = 9999
+n left0x1c965b0
+n right0x1c94f30
+n->data > value
+Starting remove_function
+n = 8888
+n left0x1c96730
+n right0
+n->data > value
+Starting remove_function
+n = 7777
+n left0x1c96880
+n right0
+n->data > value
+Starting remove_function
+n = 6666
+n left0x1c969a0
+n right0
+n->data > value
+Starting remove_function
+n = 5555
+n left0x1c96a90
+n right0
+n->data > value
+Starting remove_function
+n = 4444
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ed0
+n->data < value
+Starting remove_function
+n = 999
+n left0x1c95080
+n right0x1c94f00
+n->data < value
+Starting remove_function
+n = 9999
+n left0x1c965b0
+n right0x1c94f30
+n->data > value
+Starting remove_function
+n = 8888
+n left0x1c96730
+n right0
+n->data > value
+Starting remove_function
+n = 7777
+n left0x1c96880
+n right0
+n->data > value
+Starting remove_function
+n = 6666
+n left0x1c969a0
+n right0
+n->data > value
+Starting remove_function
+n = 5555
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ed0
+n->data < value
+Starting remove_function
+n = 999
+n left0x1c95080
+n right0x1c94f00
+n->data < value
+Starting remove_function
+n = 9999
+n left0x1c965b0
+n right0x1c94f30
+n->data > value
+Starting remove_function
+n = 8888
+n left0x1c96730
+n right0
+n->data > value
+Starting remove_function
+n = 7777
+n left0x1c96880
+n right0
+n->data > value
+Starting remove_function
+n = 6666
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ed0
+n->data < value
+Starting remove_function
+n = 999
+n left0x1c95080
+n right0x1c94f00
+n->data < value
+Starting remove_function
+n = 9999
+n left0x1c965b0
+n right0x1c94f30
+n->data > value
+Starting remove_function
+n = 8888
+n left0x1c96730
+n right0
+n->data > value
+Starting remove_function
+n = 7777
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ed0
+n->data < value
+Starting remove_function
+n = 999
+n left0x1c95080
+n right0x1c94f00
+n->data < value
+Starting remove_function
+n = 9999
+n left0x1c965b0
+n right0x1c94f30
+n->data > value
+Starting remove_function
+n = 8888
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ed0
+n->data < value
+Starting remove_function
+n = 999
+n left0x1c95080
+n right0x1c94f00
+n->data < value
+Starting remove_function
+n = 9999
+n left0
+n right0x1c94f30
+one child
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ed0
+n->data < value
+Starting remove_function
+n = 999
+n left0x1c95080
+n right0x1c94f30
+n->data < value
+Starting remove_function
+n = 99999
+n left0x1c965e0
+n right0x1c94f60
+n->data < value
+Starting remove_function
+n = 999999
+n left0x1c96610
+n right0x1c94f90
+n->data > value
+Starting remove_function
+n = 888888
+n left0x1c96790
+n right0
+n->data > value
+Starting remove_function
+n = 777777
+n left0x1c968e0
+n right0
+n->data > value
+Starting remove_function
+n = 666666
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ed0
+n->data < value
+Starting remove_function
+n = 999
+n left0x1c95080
+n right0x1c94f30
+n->data < value
+Starting remove_function
+n = 99999
+n left0x1c965e0
+n right0x1c94f60
+n->data < value
+Starting remove_function
+n = 999999
+n left0x1c96610
+n right0x1c94f90
+n->data > value
+Starting remove_function
+n = 888888
+n left0x1c96790
+n right0
+n->data > value
+Starting remove_function
+n = 777777
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ed0
+n->data < value
+Starting remove_function
+n = 999
+n left0x1c95080
+n right0x1c94f30
+n->data < value
+Starting remove_function
+n = 99999
+n left0x1c965e0
+n right0x1c94f60
+n->data < value
+Starting remove_function
+n = 999999
+n left0x1c96610
+n right0x1c94f90
+n->data > value
+Starting remove_function
+n = 888888
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ed0
+n->data < value
+Starting remove_function
+n = 999
+n left0x1c95080
+n right0x1c94f30
+n->data < value
+Starting remove_function
+n = 99999
+n left0x1c965e0
+n right0x1c94f60
+n->data < value
+Starting remove_function
+n = 999999
+n left0
+n right0x1c94f90
+one child
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ed0
+n->data < value
+Starting remove_function
+n = 999
+n left0x1c95080
+n right0x1c94f30
+n->data < value
+Starting remove_function
+n = 99999
+n left0x1c965e0
+n right0x1c94f90
+n->data < value
+Starting remove_function
+n = 9999999
+n left0x1c96640
+n right0x1c94fc0
+n->data < value
+Starting remove_function
+n = 99999999
+n left0x1c96670
+n right0x1c94ff0
+n->data > value
+Starting remove_function
+n = 88888888
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ed0
+n->data < value
+Starting remove_function
+n = 999
+n left0x1c95080
+n right0x1c94f30
+n->data < value
+Starting remove_function
+n = 99999
+n left0x1c965e0
+n right0x1c94f90
+n->data < value
+Starting remove_function
+n = 9999999
+n left0x1c96640
+n right0x1c94fc0
+n->data < value
+Starting remove_function
+n = 99999999
+n left0
+n right0x1c94ff0
+one child
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ed0
+n->data < value
+Starting remove_function
+n = 999
+n left0x1c95080
+n right0x1c94f30
+n->data < value
+Starting remove_function
+n = 99999
+n left0x1c965e0
+n right0x1c94f90
+n->data < value
+Starting remove_function
+n = 9999999
+n left0x1c96640
+n right0x1c94ff0
+n->data < value
+Starting remove_function
+n = 999999999
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ed0
+n->data < value
+Starting remove_function
+n = 999
+n left0x1c95080
+n right0x1c94f30
+n->data < value
+Starting remove_function
+n = 99999
+n left0x1c965e0
+n right0x1c94f90
+n->data < value
+Starting remove_function
+n = 9999999
+n left0x1c96640
+n right0
+n->data > value
+Starting remove_function
+n = 8888888
+n left0x1c967c0
+n right0
+n->data > value
+Starting remove_function
+n = 7777777
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ed0
+n->data < value
+Starting remove_function
+n = 999
+n left0x1c95080
+n right0x1c94f30
+n->data < value
+Starting remove_function
+n = 99999
+n left0x1c965e0
+n right0x1c94f90
+n->data < value
+Starting remove_function
+n = 9999999
+n left0x1c96640
+n right0
+n->data > value
+Starting remove_function
+n = 8888888
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ed0
+n->data < value
+Starting remove_function
+n = 999
+n left0x1c95080
+n right0x1c94f30
+n->data < value
+Starting remove_function
+n = 99999
+n left0x1c965e0
+n right0x1c94f90
+n->data < value
+Starting remove_function
+n = 9999999
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ed0
+n->data < value
+Starting remove_function
+n = 999
+n left0x1c95080
+n right0x1c94f30
+n->data < value
+Starting remove_function
+n = 99999
+n left0x1c965e0
+n right0
+n->data > value
+Starting remove_function
+n = 88888
+n left0x1c96760
+n right0
+n->data > value
+Starting remove_function
+n = 77777
+n left0x1c968b0
+n right0
+n->data > value
+Starting remove_function
+n = 66666
+n left0x1c969d0
+n right0
+n->data > value
+Starting remove_function
+n = 55555
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ed0
+n->data < value
+Starting remove_function
+n = 999
+n left0x1c95080
+n right0x1c94f30
+n->data < value
+Starting remove_function
+n = 99999
+n left0x1c965e0
+n right0
+n->data > value
+Starting remove_function
+n = 88888
+n left0x1c96760
+n right0
+n->data > value
+Starting remove_function
+n = 77777
+n left0x1c968b0
+n right0
+n->data > value
+Starting remove_function
+n = 66666
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ed0
+n->data < value
+Starting remove_function
+n = 999
+n left0x1c95080
+n right0x1c94f30
+n->data < value
+Starting remove_function
+n = 99999
+n left0x1c965e0
+n right0
+n->data > value
+Starting remove_function
+n = 88888
+n left0x1c96760
+n right0
+n->data > value
+Starting remove_function
+n = 77777
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ed0
+n->data < value
+Starting remove_function
+n = 999
+n left0x1c95080
+n right0x1c94f30
+n->data < value
+Starting remove_function
+n = 99999
+n left0x1c965e0
+n right0
+n->data > value
+Starting remove_function
+n = 88888
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ed0
+n->data < value
+Starting remove_function
+n = 999
+n left0x1c95080
+n right0x1c94f30
+n->data < value
+Starting remove_function
+n = 99999
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ed0
+n->data < value
+Starting remove_function
+n = 999
+n left0x1c95080
+n right0
+n->data > value
+Starting remove_function
+n = 888
+n left0x1c96700
+n right0
+n->data > value
+Starting remove_function
+n = 777
+n left0x1c96850
+n right0
+n->data > value
+Starting remove_function
+n = 666
+n left0x1c96970
+n right0
+n->data > value
+Starting remove_function
+n = 555
+n left0x1c96a60
+n right0
+n->data > value
+Starting remove_function
+n = 444
+n left0x1c96b20
+n right0
+n->data > value
+Starting remove_function
+n = 333
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ed0
+n->data < value
+Starting remove_function
+n = 999
+n left0x1c95080
+n right0
+n->data > value
+Starting remove_function
+n = 888
+n left0x1c96700
+n right0
+n->data > value
+Starting remove_function
+n = 777
+n left0x1c96850
+n right0
+n->data > value
+Starting remove_function
+n = 666
+n left0x1c96970
+n right0
+n->data > value
+Starting remove_function
+n = 555
+n left0x1c96a60
+n right0
+n->data > value
+Starting remove_function
+n = 444
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ed0
+n->data < value
+Starting remove_function
+n = 999
+n left0x1c95080
+n right0
+n->data > value
+Starting remove_function
+n = 888
+n left0x1c96700
+n right0
+n->data > value
+Starting remove_function
+n = 777
+n left0x1c96850
+n right0
+n->data > value
+Starting remove_function
+n = 666
+n left0x1c96970
+n right0
+n->data > value
+Starting remove_function
+n = 555
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ed0
+n->data < value
+Starting remove_function
+n = 999
+n left0x1c95080
+n right0
+n->data > value
+Starting remove_function
+n = 888
+n left0x1c96700
+n right0
+n->data > value
+Starting remove_function
+n = 777
+n left0x1c96850
+n right0
+n->data > value
+Starting remove_function
+n = 666
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ed0
+n->data < value
+Starting remove_function
+n = 999
+n left0x1c95080
+n right0
+n->data > value
+Starting remove_function
+n = 888
+n left0x1c96700
+n right0
+n->data > value
+Starting remove_function
+n = 777
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ed0
+n->data < value
+Starting remove_function
+n = 999
+n left0x1c95080
+n right0
+n->data > value
+Starting remove_function
+n = 888
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0x1c94ed0
+n->data < value
+Starting remove_function
+n = 999
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0
+n->data > value
+Starting remove_function
+n = 8
+n left0x1c966a0
+n right0
+n->data > value
+Starting remove_function
+n = 7
+n left0x1c967f0
+n right0
+n->data > value
+Starting remove_function
+n = 6
+n left0x1c96910
+n right0
+n->data > value
+Starting remove_function
+n = 5
+n left0x1c96a00
+n right0
+n->data > value
+Starting remove_function
+n = 4
+n left0x1c96ac0
+n right0
+n->data > value
+Starting remove_function
+n = 3
+n left0x1c96b50
+n right0
+n->data > value
+Starting remove_function
+n = 2
+n left0x1c96bb0
+n right0
+n->data > value
+Starting remove_function
+n = 1
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0
+n->data > value
+Starting remove_function
+n = 8
+n left0x1c966a0
+n right0
+n->data > value
+Starting remove_function
+n = 7
+n left0x1c967f0
+n right0
+n->data > value
+Starting remove_function
+n = 6
+n left0x1c96910
+n right0
+n->data > value
+Starting remove_function
+n = 5
+n left0x1c96a00
+n right0
+n->data > value
+Starting remove_function
+n = 4
+n left0x1c96ac0
+n right0
+n->data > value
+Starting remove_function
+n = 3
+n left0x1c96b50
+n right0
+n->data > value
+Starting remove_function
+n = 2
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0
+n->data > value
+Starting remove_function
+n = 8
+n left0x1c966a0
+n right0
+n->data > value
+Starting remove_function
+n = 7
+n left0x1c967f0
+n right0
+n->data > value
+Starting remove_function
+n = 6
+n left0x1c96910
+n right0
+n->data > value
+Starting remove_function
+n = 5
+n left0x1c96a00
+n right0
+n->data > value
+Starting remove_function
+n = 4
+n left0x1c96ac0
+n right0
+n->data > value
+Starting remove_function
+n = 3
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0
+n->data > value
+Starting remove_function
+n = 8
+n left0x1c966a0
+n right0
+n->data > value
+Starting remove_function
+n = 7
+n left0x1c967f0
+n right0
+n->data > value
+Starting remove_function
+n = 6
+n left0x1c96910
+n right0
+n->data > value
+Starting remove_function
+n = 5
+n left0x1c96a00
+n right0
+n->data > value
+Starting remove_function
+n = 4
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0
+n->data > value
+Starting remove_function
+n = 8
+n left0x1c966a0
+n right0
+n->data > value
+Starting remove_function
+n = 7
+n left0x1c967f0
+n right0
+n->data > value
+Starting remove_function
+n = 6
+n left0x1c96910
+n right0
+n->data > value
+Starting remove_function
+n = 5
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0
+n->data > value
+Starting remove_function
+n = 8
+n left0x1c966a0
+n right0
+n->data > value
+Starting remove_function
+n = 7
+n left0x1c967f0
+n right0
+n->data > value
+Starting remove_function
+n = 6
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0
+n->data > value
+Starting remove_function
+n = 8
+n left0x1c966a0
+n right0
+n->data > value
+Starting remove_function
+n = 7
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0x1c95020
+n right0
+n->data > value
+Starting remove_function
+n = 8
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 9
+n left0
+n right0
+No next of kin
+Starting clear
+Starting clear_function
+File write complete
+
+Reading file4.txt...
+Beginning out_file4.txt write
+Starting Add
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting remove
+Starting remove_function
+n = 1
+n left0
+n right0x1c963c0
+n->data < value
+Starting remove_function
+n = 2
+n left0
+n right0x1c94ed0
+n->data < value
+Starting remove_function
+n = 3
+n left0
+n right0
+n->data < value
+Starting remove_function
+N is NULL
+Starting remove
+Starting remove_function
+n = 1
+n left0
+n right0x1c963c0
+n->data < value
+Starting remove_function
+n = 2
+n left0
+n right0x1c94ed0
+n->data < value
+Starting remove_function
+n = 3
+n left0
+n right0
+n->data < value
+Starting remove_function
+N is NULL
+Starting remove
+Starting remove_function
+n = 1
+n left0
+n right0x1c963c0
+n->data < value
+Starting remove_function
+n = 2
+n left0
+n right0x1c94ed0
+n->data < value
+Starting remove_function
+n = 3
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 1
+n left0
+n right0x1c963c0
+n->data < value
+Starting remove_function
+n = 2
+n left0
+n right0
+No next of kin
+Starting remove
+Starting remove_function
+n = 1
+n left0
+n right0
+n->data < value
+Starting remove_function
+N is NULL
+Starting remove
+Starting remove_function
+n = 1
+n left0
+n right0
+n->data < value
+Starting remove_function
+N is NULL
+Starting remove
+Starting remove_function
+n = 1
+n left0
+n right0
+No next of kin
+Starting Add
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting clear
+Starting clear_function
+Starting clear_function
+Starting clear_function
+Starting clear_function
+Starting clear_function
+Starting clear_function
+Starting clear_function
+Starting clear_function
+Starting clear_function
+Starting clear_function
+Starting clear_function
+Starting clear_function
+Starting clear_function
+Starting clear_function
+Starting clear_function
+Starting Add
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting clear
+Starting clear_function
+Starting clear_function
+Starting clear_function
+Starting clear_function
+Starting clear_function
+Starting clear_function
+Starting clear_function
+Starting clear_function
+Starting clear_function
+Starting clear_function
+Starting clear_function
+Starting clear_function
+Starting clear_function
+Starting clear_function
+Starting clear_function
+Starting Add
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting Add_Function
+Starting remove
+Starting remove_function
+n = 15
+n left0x1c96390
+n right0
+n->data > value
+Starting remove_function
+n = 14
+n left0x1c963c0
+n right0
+n->data > value
+Starting remove_function
+n = 7
+n left0x1c94f50
+n right0x1c94f80
+n->data > value
+Starting remove_function
+n = 5
+n left0x1c94fb0
+n right0x1c94fe0
+n->data > value
+Starting remove_function
+n = 3
+n left0x1c95070
+n right0
+one child
+Starting remove
+Starting remove_function
+n = 15
+n left0x1c96390
+n right0
+n->data > value
+Starting remove_function
+n = 14
+n left0x1c963c0
+n right0
+n->data > value
+Starting remove_function
+n = 7
+n left0x1c94f50
+n right0x1c94f80
+n->data > value
+Starting remove_function
+n = 5
+n left0x1c95070
+n right0x1c94fe0
+two children
+testing stuff Left 0
+testing stuff Right 0
+more stuff
+Starting remove
+Starting remove_function
+n = 15
+n left0x1c96390
+n right0
+n->data > value
+Starting remove_function
+n = 14
+n left0x1c963c0
+n right0
+n->data > value
+Starting remove_function
+n = 7
+n left0x1c965c0
+n right0x1c94f80
+n->data > value
+Starting remove_function
+n = 2
+n left0x1c95070
+n right0x1c94fe0
+testing stuff Left 0
+testing stuff Right 0
+more stuff
