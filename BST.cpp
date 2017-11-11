@@ -1,7 +1,6 @@
 #include "NodeInterface.h"
 #include "Node.h"
 #include "BST.h"
-//segfaulting at remove 2 true in file 4
 using namespace std;
 
 	//Please note that the class that implements this interface must be made
@@ -25,33 +24,16 @@ using namespace std;
 	*/
 	bool BST::add(int data)
   {
-/*    Node * currentNode;
-    currentNode = NULL;
-    currentNode = root;*/
-		//cout << "Starting Add" << endl;
     add_function(root, data);
   }
 
 	bool BST::add_function(Node*& n, int value)
   {
-		//cout << "Starting Add_Function" << endl;
     if (n == NULL)
     {
 		  n = new Node(value);
-			if (value == 2)
-			{
-				cout << "Adding 2" << endl;
-				cout << "n's left child" << n->leftChild << endl;
-				cout << "n's right child" << n->rightChild << endl;
-			}
-
       return true;
     }
-
-		if (n->data == 2)
-		{
-			cout << "n leftchild" << n->leftChild << "n rightChild" << n->rightChild << endl;
-		}
 
     if (n->data > value)
     {
@@ -72,39 +54,25 @@ using namespace std;
 	*/
 	bool BST::remove(int data)
   {
-		cout << "Starting remove" << endl;
     return remove_function(root, data);
   }
   bool BST::remove_function(Node*& n, int value)
   {
-		//cout << "Starting remove_function" << endl;
     if (n == NULL)
     {
-			cout << "N is NULL" << endl;
       return false;
     }
-		if (n->data == 2)
-		{
-		cout << "n = " << n->data << endl;
-		cout << "n left" << n->leftChild << endl;
-		cout << "n right" << n->rightChild << endl;
-	}
+
     if (n->data > value)
     {
-			if (n->data == 2)
-			cout << "n->data > value" << endl;
       return remove_function(n->leftChild, value);
     }
     if (n->data < value)
     {
-			if (n->data == 2)
-			cout << "n->data < value" << endl;
       return remove_function(n->rightChild, value);
     }
-    if (n->rightChild == nullptr && n->leftChild == nullptr) //No next of kin
+    if (n->rightChild == NULL && n->leftChild == NULL) //No next of kin
     {
-			if (n->data == 2)
-			cout << "No next of kin" << endl;
       delete n;
       n = NULL;
       return true;
@@ -112,8 +80,6 @@ using namespace std;
 
     if (n->rightChild == NULL || n->leftChild == NULL) //one child
     {
-			if (n->data == 2)
-			cout << "one child" << endl;
       Node* temp;
       temp = n->leftChild;
       if (n->leftChild == NULL)
@@ -126,30 +92,19 @@ using namespace std;
     }
     Node* temp = n->leftChild;
     Node* parent = n;
-		if (n->data == 2)
-		cout << "two children" << endl;
-    while (temp->rightChild != NULL) //two children. Problem children. Twins, with too much energy.
+    while (temp->rightChild != NULL) //two children.
     {
       parent = temp;
       temp = temp->rightChild;
     }
-		if (n->data == 2)
-		cout << "testing stuff Left " << temp->leftChild << endl;
-		if (n->data == 2)
-		cout << "testing stuff Right " << temp->rightChild << endl;
 		if (n->data != parent->data)
 		{
     parent->rightChild = temp->leftChild;
 	}
 	else parent->leftChild = temp->leftChild;
-		cout << "Temp->Data" << temp->data << endl;
-    //temp->leftChild = n->leftChild;
-    //temp->rightChild = n->rightChild;
+
 		n->data = temp->data;
     delete temp;
-    //n = temp;
-		if (n->data == 2)
-		cout << "more stuff" << endl;
     return true;
   }
 
@@ -158,13 +113,11 @@ using namespace std;
 	*/
 	void BST::clear()
   {
-		cout << "Starting clear" << endl;
     clear_function(root);
     root = NULL;
   }
   void BST::clear_function(Node* n)
   {
-		cout << "Starting clear_function" << endl;
     if (n == NULL)
     {
       return;
